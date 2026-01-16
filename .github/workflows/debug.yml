@@ -1,4 +1,4 @@
-name: PurrfectSnap Debug CI
+name: PurrfectSnap Debug CI 
 on:
   workflow_dispatch:
     inputs:
